@@ -23,14 +23,6 @@ Gosto de aprender, ensinar e compartilhar conhecimento com a comunidade dev. ğŸš
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
 </p>
 
----
-
-### ğŸ“Š EstatÃ­sticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160"/>
-</p>
 
 ---
 
@@ -51,10 +43,3 @@ Gosto de aprender, ensinar e compartilhar conhecimento com a comunidade dev. ğŸš
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
-</div>
-
----
-
-â­ **Inspirado por perfis da comunidade GitHub**
