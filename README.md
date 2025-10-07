@@ -13,7 +13,11 @@ Tenho interesse especial em desenvolvimento web, jogos e automação, e busco se
 Gosto de transformar ideias em código e ver pequenos conceitos ganhando vida na tela. 🚀**
 
 ---
+### 🎓 Formação
+- 📘 **Análise e Desenvolvimento de Sistemas** — Faculdade Infnet  (cursando)
+- 🎮 **Designer de Games e Desenvolvedor Unity** — EBAC (finalizado) 
 
+---
 ### 🧠 Linguagens e Tecnologias
 
 <p align="center">
@@ -38,9 +42,10 @@ Gosto de transformar ideias em código e ver pequenos conceitos ganhando vida na
 ---
 
 ### ✨ Curiosidades
-- 💻 Adoro criar interfaces limpas e funcionais.  
-- 📚 Sempre estudando novas tecnologias e frameworks.  
-- 🎮 Gamer nas horas vagas!
+- 💻 Sou apaixonado por tecnologia desde sempre, então me encontrei na programação.  
+- 🎮 Adoro desenvolver e jogar games — especialmente os que envolvem mistério ou boa narrativa.  
+- 📚 Estudo na Faculdade Infnet e estou sempre buscando aprender algo novo.  
+- ⚙️ Gosto de transformar ideias em pequenos projetos práticos.  
 
 ---
 
