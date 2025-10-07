@@ -1,7 +1,7 @@
 <!-- Título -->
 <h1 align="center">👋 Olá, eu sou João Victor</h1>
 
-<h3 align="center">Desenvolvedor(a) FullStack</h3>
+<h3 align="center">Desenvolvedor FullStack</h3>
 
 ---
 
