@@ -49,3 +49,8 @@ Gosto de transformar ideias em código e ver pequenos conceitos ganhando vida na
 
 ---
 
+### 🐍 Minhas contribuições
+<p align="center">
+  <img src="https://github.com/pipikanha/pipikanha/blob/output/snake.svg" alt="Snake animation"/>
+</p>
+
