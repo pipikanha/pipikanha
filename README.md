@@ -16,7 +16,7 @@ Gosto de transformar ideias em código e ver pequenos conceitos ganhando vida na
 ### 🎓 Formação
 - 📘 **Análise e Desenvolvimento de Sistemas** — Faculdade Infnet  (cursando)
 - 🎮 **Designer de Games e Desenvolvedor Unity** — EBAC (finalizado)
-- 🤖 **Inteligência Artificial** - EBAC(finalizado)
+- 🤖 **Inteligência Artificial** - EBAC (finalizado)
 
 ---
 ### 🧠 Linguagens e Tecnologias
